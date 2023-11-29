@@ -1,4 +1,6 @@
-'use strict';
+'use strict'
+
+console.log('hellos');
 
 for (let i=0; i< 12; i++) {
     console.log('counting forward: ${i}');
