@@ -26,7 +26,7 @@ for(let i=0; i < fruits.length; i++) {
     let userInput = 'fruits';
 
     // Using a while loop to wait for a specific user input
-    while (userInput !== 'start') {
+    while (userInput !== 'fruits') {
         userInput = prompt('Please enter "fruits" to proceed:');
     }
     
